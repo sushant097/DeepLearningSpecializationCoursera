@@ -19,18 +19,21 @@ This repo contains all the [Deep Learning Specialization on Coursera](https://ww
 <th>Quizes</th>
 
 </tr>
+<tr>
+<td><b>NO PA this week</b></td><td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week1/week1.pdf">Week 1 Quiz</a></td>
+</tr>
 
 <tr>
 
-<td><a href url="">Week 2 - PA 1 - Python Basics with Numpy</a></td>
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week2/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb">Week 2 - PA 1 - Python Basics with Numpy</a></td>
 
-<td rowspan="2"><a href url="">Week 2 Quiz</a></td>
+<td rowspan="2"><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week2/week2.pdf">Week 2 Quiz</a></td>
 
 </tr>
 
 <tr>
 
-<td><a href url="">Week 2 - PA 2 - Logistic Regression with a Neural Network mindset</a></td>
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb">Week 2 - PA 2 - Logistic Regression with a Neural Network mindset</a></td>
 
 <td></td>
 
@@ -38,23 +41,23 @@ This repo contains all the [Deep Learning Specialization on Coursera](https://ww
 
 <tr>
 
-<td><a href url="">Week 3 - PA 3 - Planar data classification with one hidden layer</a></td>
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week3/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb">Week 3 - PA 3 - Planar data classification with one hidden layer</a></td>
 
-<td><a href url="">Week 3 Quiz</a></td>
-
-</tr>
-
-<tr>
-
-<td><a href url="">Week 4 - PA 4 - Building your Deep Neural Network: Step by Step</a></td>
-
-<td rowspan="2"><a href url="">Week 4 Quiz</a></td>
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week3/week3.pdf">Week 3 Quiz</a></td>
 
 </tr>
 
 <tr>
 
-<td><a href url="">Week 4 - PA 5 - Deep Neural Network for Image Classification: Application</a></td>
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/tree/master/NeuralNetworksAndDeepLearning/Week4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building+your+Deep+Neural+Network+-+Step+by+Step+v8.ipynb">Week 4 - PA 4 - Building your Deep Neural Network: Step by Step</a></td>
+
+<td rowspan="2"><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week4/week4.pdf">Week 4 Quiz</a></td>
+
+</tr>
+
+<tr>
+
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/NeuralNetworksAndDeepLearning/Week4/Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb">Week 4 - PA 5 - Deep Neural Network for Image Classification: Application</a></td>
 
 </tr>
 
@@ -133,12 +136,12 @@ This repo contains all the [Deep Learning Specialization on Coursera](https://ww
 
 <td rowspan="2">NONE PA for this course</td>
 
-<td><a href url="">Week 1 Quiz</a></td>
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Structuring%20Machine%20Learning%20Projects/week1.pdf">Week 1 Quiz</a></td>
 
 </tr>
 
 <tr>
-<td><a href url="">Week 2 Quiz</a></td>
+<td><a href url="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Structuring%20Machine%20Learning%20Projects/week2.pdf">Week 2 Quiz</a></td>
 </tr>
 
 </tbody>

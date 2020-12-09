@@ -267,12 +267,16 @@ This repo contains all the [Deep Learning Specialization on Coursera](https://ww
 
 </table>
 
+### Deep Learning Specialization completion Certificate: 
+https://www.coursera.org/account/accomplishments/specialization/certificate/4WAHEA9VMBV2
 
 ### (Unofficial) Lecture notes by [ppant](https://github.com/ppant/deeplearning.ai-notes)
 
 ## Discliamer
 
 This is all the programming assignments, Quizzes of the deeplearning specialization course. It is **only for the reference purpose.** Don't copy and paste for the plagarism assignments which deny coursera honor code. They are all only you get stuck on doing. It's all the treasure of deeplearning.ai team.
+
+**Happy Learning!**
 
 
 

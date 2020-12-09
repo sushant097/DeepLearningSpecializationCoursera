@@ -2,7 +2,7 @@
 
 Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
 
-Instructor : [Andrew NG]()
+Instructor : [Andrew NG](http://www.andrewng.org/)
 
 ## Credits
 This repo contains all the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) course assignments, quizes.
@@ -198,3 +198,78 @@ This repo contains all the [Deep Learning Specialization on Coursera](https://ww
 </tbody>
 
 </table>
+
+### Course 5 : Sequence Models
+
+<table>
+
+<tbody>
+
+<tr>
+
+<th>Programming Assignment</th>
+
+<th>Quizes</th>
+
+</tr>
+
+<tr>
+
+<td><a href url="">Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step</a></td>
+
+<td rowspan="3"><a href url="">Week 1 Quiz</a></td>
+
+</tr>
+
+<tr>
+
+<td><a href url="">Week 1 - PA 2 - Dinosaur Land -- Character-level Language Modeling</a></td>
+
+</tr>
+
+<tr>
+<td><a href url="">Week 1 - PA 3 - Jazz improvisation with LSTM</a></td>
+</tr>
+
+<tr>
+
+<td><a href url="">Week 2 - PA 1 - Word Vector Representation and Debiasing</a></td>
+
+<td rowspan="2"><a href url="">Week2 Quiz</a></td>
+
+</tr>
+
+<tr>
+
+<td><a href url="">Week 2 - PA 2 - Emojify!</a></td>
+
+</tr>
+
+<tr>
+
+<td><a href url="">Week 3 - PA 1 - Neural Machine Translation with Attention</a></td>
+
+<td rowspan="2"><a href url="">Week3 Quiz</a></td>
+
+</tr>
+
+<tr>
+
+<td><a href url="">Week 3 - PA 2 - Trigger Word Detection</a></td>
+
+</tr>
+
+
+</tbody>
+
+</table>
+
+
+### (Unofficial) Lecture notes by [ppant](https://github.com/ppant/deeplearning.ai-notes)
+
+## Discliamer
+
+This is all the programming assignments, Quizzes of the deeplearning specialization course. It is **only for the reference purpose.** Don't copy and paste for the plagarism assignments which deny coursera honor code. They are all only you get stuck on doing. It's all the treasure of deeplearning.ai team.
+
+
+

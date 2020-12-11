@@ -81,35 +81,35 @@ This repo contains all the [Deep Learning Specialization on Coursera](https://ww
 
 <tr>
 
-<td><a href="">Week 1 - PA 1 - Initialization</a></td>
+<td><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization/Initialization.ipynb">Week 1 - PA 1 - Initialization</a></td>
 
-<td rowspan="3"><a href="">Week 1 Quiz</a></td>
-
-</tr>
-
-<tr>
-
-<td><a href="">Week 1 - PA 2 - Regularization</a></td>
-
-</tr>
-
-<tr>
-<td><a href="">Week 1 - PA 3 - Gradient Checking</a></td>
-</tr>
-
-<tr>
-
-<td><a href="">Week 2 - PA 4 - Optimization Methods</a></td>
-
-<td><a href="">Week2 Quiz</a></td>
+<td rowspan="3"><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Week1%20Quiz.pdf">Week 1 Quiz</a></td>
 
 </tr>
 
 <tr>
 
-<td><a href="">Week 3 - PA 5 - TensorFlow Tutorial</a></td>
+<td><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization/Regularization_v2a.ipynb">Week 1 - PA 2 - Regularization</a></td>
 
-<td><a href="">Week3 Quiz</a></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%20Checking/Gradient%20Checking%20v1.ipynb">Week 1 - PA 3 - Gradient Checking</a></td>
+</tr>
+
+<tr>
+
+<td><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization_methods_v1b.ipynb">Week 2 - PA 4 - Optimization Methods</a></td>
+
+<td><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Week%202%20Quiz%20-%20Optimization%20algorithms.pdf">Week2 Quiz</a></td>
+
+</tr>
+
+<tr>
+
+<td><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/TensorFlow_Tutorial_v3b.ipynb">Week 3 - PA 5 - TensorFlow Tutorial</a></td>
+
+<td><a href="https://github.com/sushant097/DeepLearningSpecializationCoursera/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Week3.pdf">Week3 Quiz</a></td>
 
 </tr>
 

@@ -272,7 +272,7 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/4WAH
 
 ### (Unofficial) Lecture notes by [ppant](https://github.com/ppant/deeplearning.ai-notes)
 
-## Discliamer
+## Disclaimer
 
 This is all the programming assignments, Quizzes of the deeplearning specialization course. It is **only for the reference purpose.** Don't copy and paste for the plagarism assignments which deny coursera honor code. They are all only you get stuck on doing. It's all the treasure of deeplearning.ai team.
 
